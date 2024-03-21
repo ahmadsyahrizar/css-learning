@@ -1,0 +1,12 @@
+.box {
+ background-color: cadetblue;
+}
+
+
+.bg-blue {
+ background-color: blue;
+}
+
+.container-sm {
+ max-width: 800px;
+}
