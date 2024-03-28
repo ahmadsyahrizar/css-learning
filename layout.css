@@ -1,0 +1,40 @@
+.display-block {
+ display:block;
+}
+
+.display-inline {
+ display:inline;
+}
+
+.dimension {
+ width: 100px;
+ /* height: 100px; */
+}
+
+/* For flex page layout */
+.display-flex {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ align-items: center;
+ height: 1000px;
+}
+
+.flex-wrapper {
+ display: flex;
+ /* justify-content: column; */
+ align-items: flex-start;
+ width: 220px;
+ height: 300px;
+}
+
+.box {
+  background-color: grey;
+  width: 300px;
+  height: 100px;
+}
+
+
+#align-self-box {
+ align-self: center
+}
